@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Login Tasks System
 Name:		php-horde-Horde_LoginTasks
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	375e944c2ff8c06f08ca700a9e35704e
+# Source0-md5:	4412f8b713f725cc1ad7c1f33ac7efb4
 URL:		https://github.com/horde/horde/tree/master/framework/LoginTasks/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
