@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_LoginTasks
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Login Tasks System
 Name:		php-horde-Horde_LoginTasks
 Version:	1.0.3
